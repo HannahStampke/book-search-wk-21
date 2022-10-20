@@ -1,6 +1,7 @@
 # 21 MERN: Book Search Engine
 
-### Live URL: https://hannahstampke.github.io/Cheq-wk-6/
+### Live URL:https://dashboard.heroku.com/apps/book-searcher-wk-21/activity/builds/20759006-1210-4e3b-8973-7be90c85eb43
+              https://book-searcher-wk-21.herokuapp.com/
 
 ## User Story 
 ```md
@@ -49,7 +50,6 @@ Steps to access and use the Code Quiz
 - GraphQL
 - MongoDB
 - Heroku
-- Apollo
 
 
 
